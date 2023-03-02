@@ -42,7 +42,7 @@ bigintTree.set(1n, "one");
 
 ## License
 
-@foxglove/avl is licensed under [MIT License](https://opensource.org/licenses/MIT).
+@foxglove/avl is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Releasing
 
