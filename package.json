@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/foxglove/avl.git"
+    "url": "https://github.com/foxglove/avl.git"
   },
   "author": {
     "name": "Foxglove Technologies",
